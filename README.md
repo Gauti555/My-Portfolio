@@ -29,4 +29,4 @@ Engineering the intelligent, generative future through robust system design, cut
 - **GitHub**: [@Gauti555](https://github.com/Gauti555)
 
 ---
-*Built with Next.js, Framer Motion, and TypeScript.*
+*Built with Next.js, Framer Motion, and TypeScript.* 
