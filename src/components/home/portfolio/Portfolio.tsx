@@ -17,7 +17,7 @@ export const Portfolio = () => {
             transition={{ duration: 0.6, ease: "easeOut" }}
             className="lg:col-span-1"
           >
-            <h2 className="leading-[0.92] font-semibold text-white text-[42px] sm:text-[72px] md:text-[80px]">
+            <h2 className="leading-[1.1] font-semibold text-white text-[38px] sm:text-[64px] md:text-[72px]">
               Projects that
               <br />
               Spark a
