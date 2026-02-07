@@ -8,7 +8,7 @@ import { ProjectDetails } from "./ProjectDetails"
 export const Portfolio = () => {
   return (
     <section id="projects" className="w-full bg-[#0a0a0a] scroll-mt-24">
-      <div className="w-full mx-auto pl-6 pr-12 sm:pl-8 sm:pr-20 py-24">
+      <div className="w-full mx-auto pl-6 pr-16 sm:pl-8 sm:pr-24 py-24">
         <div className="grid gap-10 lg:grid-cols-3 lg:gap-16 items-start">
           <motion.div
             initial={{ opacity: 0, y: 18 }}
@@ -17,7 +17,7 @@ export const Portfolio = () => {
             transition={{ duration: 0.6, ease: "easeOut" }}
             className="lg:col-span-1"
           >
-            <h2 className="leading-[1.1] font-semibold text-white text-[38px] sm:text-[64px] md:text-[72px]">
+            <h2 className="leading-[1.15] font-semibold text-white text-[36px] sm:text-[58px] md:text-[66px]">
               Projects that
               <br />
               Spark a
