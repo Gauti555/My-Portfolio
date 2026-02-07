@@ -5,3 +5,8 @@ $env:Path = "C:\Program Files\nodejs;" + $env:Path; & "C:\Program Files\nodejs\n
 
 
 .\animated-portfolio-framer-motion\run_dev.bat
+
+
+git add .
+git commit -m "Your commit message"
+git push origin main

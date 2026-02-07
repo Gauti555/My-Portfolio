@@ -16,7 +16,7 @@ export const portfolioData = [
   {
     id: 5,
     title: "MPA - My Personal Agent",
-    image: "/Skills/MPA.png",
+    image: "/Skills/mpa.png",
     description: "Personal AI agent system for localized automation.",
     link: "https://github.com/Gauti555/MPA-My-Personal-Agent-",
   },
