@@ -1,0 +1,7 @@
+$env:Path = "C:\Program Files\nodejs;" + $env:Path; & "C:\Program Files\nodejs\npm.cmd" run dev
+
+
+.\run_dev.ps1
+
+
+.\animated-portfolio-framer-motion\run_dev.bat
